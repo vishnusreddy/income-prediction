@@ -33,4 +33,4 @@ In Jupyter, click on run code, to run the code. This is an interactive console a
 ## Work by
 1. Pranav L Nambiar
 2. Vishnu S Reddy
-3. P Varshit
+3. P Varshith
